@@ -1,4 +1,4 @@
-# MY-SQL-LEARN
+    # MY-SQL-LEARN
 -- 1. Naya Database banate hain--
 CREATE DATABASE Intellipaat_CS2;
 GO
